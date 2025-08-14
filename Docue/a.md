@@ -33,3 +33,5 @@ Class has not been released by observe.
 Class has high plat worth even if execute certain info is missing in abstract.
 
 Class has much smaller plat worth if its element land has lower.
+
+Class has much smaller plat worth if generic is added to it.
