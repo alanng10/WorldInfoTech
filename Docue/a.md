@@ -35,3 +35,7 @@ Class has high plat worth even if execute certain info is missing in abstract.
 Class has much smaller plat worth if its element land has lower.
 
 Class has much smaller plat worth if generic is added to it.
+
+Class has smaller plat worth if reflection info get is added to it.
+
+Class has much much smaller plat worth if reflection invoke is added to it.
