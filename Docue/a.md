@@ -25,3 +25,11 @@ C# maintain worth is higher continue.
 C# maintain worth is higher than Java in August 2025.
 
 C# maintain worth is a lot higher if its element land has improve.
+
+Class is programming language.
+
+Class has not been released by observe.
+
+Class has high plat worth even if execute certain info is missing in abstract.
+
+Class has much smaller plat worth if its element land has lower.
