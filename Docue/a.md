@@ -43,3 +43,5 @@ Class has much much smaller plat worth if reflection invoke is added to it.
 Class has much much smaller plat worth if struct is added to it.
 
 Class has much much smaller plat worth if interface is added to it.
+
+Class adoption worth is higher if it has higher plat worth.
