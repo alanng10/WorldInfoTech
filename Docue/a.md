@@ -21,3 +21,7 @@ C# has higher plat worth than 4 years ago, and 8-9 years ago.
 C# maintain worth is high, but adoption worth go no much higher.
 
 C# maintain worth is higher continue.
+
+C# maintain worth is higher than Java in August 2025.
+
+C# maintain worth is a lot higher if its element land has improve.
