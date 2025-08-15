@@ -47,3 +47,5 @@ Class has much much smaller plat worth if interface is added to it.
 Class adoption worth is higher if it has higher plat worth.
 
 Class adoption worth is higher if it has higher cross.
+
+Class adoption worth is higher if it has higher element land.
